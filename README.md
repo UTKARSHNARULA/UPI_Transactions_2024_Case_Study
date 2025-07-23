@@ -9,4 +9,3 @@ Analyzed 250,000+ UPI transactions to extract insights on:
 
 📊 **Tools:** R, dplyr, ggplot2, RMarkdown  
 💡 **Outcome:** Recommendations on marketing campaigns, fraud monitoring, and customer segmentation.
-
